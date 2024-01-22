@@ -1,16 +1,16 @@
 
 const gameEvents = new Map([
-  [17, "⚽️ ghi bàn"],
-  [36, "🔁 thay người"],
-  [47, "⚽️ ghi bàn"],
-  [61, "🔁 thay người"],
-  [64, "🔶 nhận thẻ vàng"],
-  [69, "🔴 nhận thẻ đỏ"],
-  [70, "🔁 thay người"],
-  [72, "🔁 thay người"],
-  [76, "⚽️ ghi bàn"],
-  [80, "⚽️ ghi bàn"],
-  [92, "🔶 nhận thẻ vàng"],
+  [17, "Ghi bàn"],
+  [36, "Thay người"],
+  [47, "Ghi bàn"],
+  [61, "Thay người"],
+  [64, "Nhận thẻ vàng"],
+  [69, "Nhận thẻ đỏ"],
+  [70, "Thay người"],
+  [72, "Thay người"],
+  [76, "Ghi bàn"],
+  [80, "Ghi bàn"],
+  [92, "Nhận thẻ vàng"],
 ]);
 
 // Câu 1:
